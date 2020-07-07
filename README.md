@@ -27,7 +27,6 @@ https://play.google.com/store/apps/details?id=com.felixpro
     <kbd>
     <img width="240" style="border-radius: 5px" height="450" src="screenshots/6.png" alt="6">
   </kbd>
-
   <br/><br/>
   <kbd>
     <img width="240" style="border-radius: 5px" height="450" src="screenshots/7.png" alt="7">
@@ -36,8 +35,8 @@ https://play.google.com/store/apps/details?id=com.felixpro
   <kbd>
     <img width="240" style="border-radius: 5px" height="450" src="screenshots/8.png" alt="8">
   </kbd>
-      &nbsp;&nbsp;&nbsp;&nbsp;
-    <kbd>
+   &nbsp;&nbsp;&nbsp;&nbsp;
+   <kbd>
     <img width="240" style="border-radius: 5px" height="450" src="screenshots/9.png" alt="9">
   </kbd>
   <br/><br/>
