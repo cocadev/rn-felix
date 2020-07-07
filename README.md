@@ -1,15 +1,4 @@
-1. Document
+Felix React-Native App
 
-- http://passionui.com/docs/felix-travel
-
-2. Support Issue
-
-- https://github.com/passionui/support/issues
-
-3. Facebook
-
-- https://www.facebook.com/passionui/
-
-4. Youtube
-
-- https://www.youtube.com/channel/UCt_7rXE3zgj_a_UbGCFUz6Q
+https://apps.apple.com/us/app/felixpro/id1474371512
+https://play.google.com/store/apps/details?id=com.felixpro
